@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Xác thực hóa đơn điều chỉnh
+# Xác thực hóa đơn điều chỉnh
 
 Hóa đơn điện tử đã phát hành có thể điều chỉnh trong các tình huống sau:
 
@@ -52,11 +52,11 @@ VD các bước lập điều chỉnh kế thừa từ hóa đơn bán hàng:
 
 **Bước 1**: Truy cập chức năng phát hành hóa đơn điện tử tại đường dẫn _**Bán hàng/ Nhập liệu/ Xác thực hóa đơn điện tử,**_ lựa chọn Xử lý "Xác thực hóa đơn điều chỉnh tiền" và các thông tin rồi nhấn Đồng ý.
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 2**: Tại màn hình kết quả lọc, tick chọn hóa đơn cần xác thực rồi nhấn biểu tượng xác thực HDDT và đợi đến khi chương trình thông báo hoàn thành.
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 3**: Ký các hóa đơn chờ ký. Nếu doanh nghiệp ký bằng HSM và cài đặt khi phát hành là ký luôn thì không thực hiện bước này.
 
@@ -64,6 +64,6 @@ VD các bước lập điều chỉnh kế thừa từ hóa đơn bán hàng:
 
 Sau khi phát hành xong, trạng thái HĐĐT của hóa đơn gốc sẽ chuyển sang trạng thái Điều chỉnh. Để xem lịch sử điều chỉnh của hóa đơn thì tại hóa đơn gốc vào tab HĐĐT click vào nút Chứng từ thay thế/điều chỉnh.
 
-<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 Hóa đơn gốc trên trang tra cứu HĐĐT của đối tác cũng sẽ chuyển sang trạng thái Điều chỉnh. Diễn giải trên hóa đơn điều chỉnh sẽ tự động ghi rõ điều chỉnh cho hóa đơn nào.

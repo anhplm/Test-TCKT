@@ -6,4 +6,4 @@ _Đường dẫn: **Thuế/ Báo cáo/ Bảng kê hoá đơn, chứng từ hàng
 
 <figure><img src="../../.gitbook/assets/Bảng kê hoá đơn chứng từ hàng hoá dịch vụ bán ra.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

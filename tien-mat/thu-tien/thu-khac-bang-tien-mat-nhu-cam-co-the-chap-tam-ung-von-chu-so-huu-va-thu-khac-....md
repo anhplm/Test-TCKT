@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Thu khác bằng tiền mặt
+# Thu khác bằng tiền mặt
 
 ## Mô tả nghiệp vụ
 
@@ -52,7 +52,7 @@ Có TK 1xx, 2xx, 3xx, 4xx, 5xx, 7xx
 
 **Bước 3:** Chọn Loại phiếu thu là **3. Thu khác.** Nhập các thông tin và nhấn **Lưu**
 
-<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

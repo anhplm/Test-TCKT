@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Báo cáo tình trạng đơn hàng bán
+# Báo cáo tình trạng đơn hàng bán
 
 ## Mô tả
 
@@ -33,7 +33,7 @@ Một số lưu ý:
 
 **Bước 3**: Xem báo cáo và xuất excel bằng nút chức năng Kết xuất dữ liệu để xử lý.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 Báo cáo thể hiện tình trạng đơn hàng qua các cột Trạng thái, Số lượng đặt hàng, Số lượng đã xuất, Số lượng hoá đơn, Số lượng trả lại và Số lượng còn lại.
 

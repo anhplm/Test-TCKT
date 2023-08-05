@@ -14,9 +14,9 @@ layout:
 
 # Giá thành sản xuất
 
-## [Khai báo định mức nguyên vật liệu ](done-khai-bao-dinh-muc-nguyen-vat-lieu.md)
+## [Khai báo định mức nguyên vật liệu ](khai-bao-dinh-muc-nguyen-vat-lieu.md)
 
-## [Lệnh sản xuất](done-lenh-san-xuat.md)
+## [Lệnh sản xuất](lenh-san-xuat.md)
 
 ## [Quy trình tính giá thành theo lệnh sản xuất](quy-trinh-tinh-gia-thanh-theo-lenh-san-xuat.md)
 

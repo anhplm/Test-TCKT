@@ -121,14 +121,14 @@ Sau khi thực hiện tính giá thành và kết chuyển ở sổ giá thành,
 
 Thực hiện tại đường dẫn _**Giá thành/ Nhập liệu/ Bút toán kết chuyển chi phí sản xuất trong kỳ.**_
 
-<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
 **Lưu ý:**
 
 * Để thực hiện chức năng này thì mỗi tài khoản chi phí chi tiết phải khai 1 yếu tố trong [danh mục yếu tố](cach-set-up-tinh-gia-thanh-va-kiem-tra-gia-thanh.md#danh-muc-yeu-to).
 * Danh mục yếu tố phải chọn Kết chuyển sang tài khoản dở dang là Có
 
-<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
 #### Kết chuyển tổng hợp
 

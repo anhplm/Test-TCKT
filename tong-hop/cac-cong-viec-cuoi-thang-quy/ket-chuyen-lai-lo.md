@@ -28,11 +28,11 @@ Bút toán kết chuyển cuối kỳ là việc thực hiện kết chuyển t�
 
 **Bước 2:** Chọn thời gian cần kết chuyển, sau đó nhấn **Đồng ý**. Chương trình sẽ xử lý tập hợp dữ liệu từ kỳ đến kỳ và tạo bút toán vào ngày cuối của kỳ đến.
 
-<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 3:** Tick chọn các bút toán sau đó nhấn nút **Kết chuyển**
 
-<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 **Một số lưu ý:**
 

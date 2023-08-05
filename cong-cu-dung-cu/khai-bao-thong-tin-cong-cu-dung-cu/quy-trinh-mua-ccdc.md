@@ -42,7 +42,7 @@ Có TK 242 Chi phí trả trước CCDC
 
 ## Các bước thực hiện
 
-**Bước 1:** Tạo mã hàng CCDC để theo dõi kho (cách khai báo tại đây)
+**Bước 1:** Tạo mã hàng CCDC để theo dõi kho (cách khai báo [tại đây](http://127.0.0.1:5000/s/NDvWpUAT9wOtqvTcVGdL/ban-hang-si/tao-thong-tin-san-pham))
 
 **Bước 2:** Tạo hóa đơn mua hàng trong nước (hoặc nhập khẩu) theo đường dẫn: _**Kế toán/ Mua hàng/ Hóa đơn mua hàng trong nước.**_ Chọn nút Thêm trên thanh công cụ để thêm mới.
 
@@ -50,13 +50,7 @@ Có TK 242 Chi phí trả trước CCDC
 
 <figure><img src="../../.gitbook/assets/mua CCDC6.png" alt=""><figcaption></figcaption></figure>
 
-**Bước 4:** Xuất dùng: Tạo phiếu xuất kho
-
-Đường dẫn: _**Kế toán/ Kho/ Phiếu xuất kho**_
-
-Hạch toán: Nợ 242/ Có 153
-
-Màn hình nhập liệu
+**Bước 4:** Xuất dùng: Tạo phiếu xuất kho vào đường dẫn: _**Kế toán/ Kho/ Phiếu xuất kho**_
 
 <figure><img src="../../.gitbook/assets/ccdc từng lần.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,9 +62,7 @@ Sau khi chọn loại TS/CC tại tab Chi tiết, tại Tab Tài sản/Công c�
 
 <figure><img src="../../.gitbook/assets/ccdc từng lần1.png" alt=""><figcaption></figcaption></figure>
 
-Sau khi tạo, kiểm tra thông tin công cụ tại màn hình Danh mục công cụ dụng cụ
-
-Đường dẫn: _**Kế toán/ Công cụ/ Khai báo CCDC**_
+**Bước 6:** Kiểm tra thông tin CCDC mới tạo, vào đường dẫn _**Kế toán/ Công cụ/ Khai báo CCDC**_
 
 <figure><img src="../../.gitbook/assets/ccdc từng lần2.png" alt=""><figcaption></figcaption></figure>
 

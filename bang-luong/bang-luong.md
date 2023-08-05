@@ -14,11 +14,11 @@ layout:
 
 # Bảng lương
 
-## [Khai báo cơ cấu tổ chức](done-khai-bao-co-cau-to-chuc.md)
+## [Khai báo cơ cấu tổ chức](khai-bao-co-cau-to-chuc.md)
 
-## [Khai báo danh sách nhân viên](done-khai-bao-danh-sach-nhan-vien.md)
+## [Khai báo danh sách nhân viên](khai-bao-danh-sach-nhan-vien.md)
 
-## [Xây dựng chỉ tiêu lương](done-xay-dung-chi-tieu-luong.md)
+## [Xây dựng chỉ tiêu lương](xay-dung-chi-tieu-luong.md)
 
 ## [Tạo bảng lương](page-11.md)
 

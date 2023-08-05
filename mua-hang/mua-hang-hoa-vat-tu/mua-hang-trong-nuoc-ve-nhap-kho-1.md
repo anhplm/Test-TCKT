@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Mua hàng trong nước trả tiền ngay
+# Mua hàng trong nước trả tiền ngay
 
 ## **Mô tả nghiệp vụ**
 
@@ -59,8 +59,8 @@ Có TK 111, 112: Tiền mặt, tiền gửi ngân hàng
 
 **Bước 4:** Vào tab **Chứng từ thanh toán** nhập các thông tin để tạo chứng từ thanh toán ngay và nhấn **Lưu.**
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 5:** In phiếu bằng cách nhấn vào nút biểu tượng **In** trên chứng từ hoặc thanh công cụ.
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>

@@ -40,13 +40,13 @@ Dựa vào danh sách mã sản phẩm cần sản xuất ở Lệnh sản xuấ
 
 <figure><img src="../../.gitbook/assets/Kế thừa từ LSX 4 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Màn hình phiếu xuất kho đã kế thừa dữ liệu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Màn hình phiếu xuất kho đã kế thừa dữ liệu</p></figcaption></figure>
 
 **Các thông tin cần lưu ý**:
 
 * Mã đối tượng: Có thể định nghĩa đối tượng xuất kho sản xuất theo khách hàng trên đơn hàng cần sản xuất, theo phân xưởng hoặc theo mã đối tượng chung của doanh nghiệp.
 * Thông tin vật tư: Chỉ cần nhập thông tin vật tư, kho và số lượng. Giá sẽ tự động áp khi thực hiện tính giá vốn hàng xuất kho trên phần mềm.&#x20;
-* Lý do xuất: Đặt các mã lý do gợi nhớ cho nhân viên dưới kho (trường hợp người xuất kho là nhân viên kho, không rành về tài khoản kế toán) lựa chọn và tự load ra tài khoản nợ. Nếu phần mềm chỉ sử dụng cho kế toán nhập thì mã lý do chính là tài khoản nợ. Chương trình cho phép khai báo lý do xuất và tài khoản nợ mặc định theo loại giao dịch [tại đây](http://127.0.0.1:5000/s/rcD7ImF1NXzNzFohN8p5/cach-khai-bao-tai-khoan-ngam-dinh-theo-loai-giao-dich-tren-cac-chung-tu-kho).
+* Lý do xuất: Đặt các mã lý do gợi nhớ cho nhân viên dưới kho (trường hợp người xuất kho là nhân viên kho, không rành về tài khoản kế toán) lựa chọn và tự load ra tài khoản nợ. Nếu phần mềm chỉ sử dụng cho kế toán nhập thì mã lý do chính là tài khoản nợ. Chương trình cho phép khai báo lý do xuất và tài khoản nợ mặc định theo loại giao dịch [tại đây](http://127.0.0.1:5000/s/rcD7ImF1NXzNzFohN8p5/thiet-lap-su-dung-chung-tu-so-lieu-bao-cao/cach-khai-bao-tai-khoan-ngam-dinh-theo-loai-giao-dich-tren-cac-chung-tu-kho).
 * File đính kèm: Chương trình cho phép người dùng đính kèm file thuộc nhiều định dạng khác nhau.&#x20;
 
 **Bước 4**: In phiếu bằng cách nhấn vào nút biểu tượng **In** trên chứng từ hoặc thanh công cụ.

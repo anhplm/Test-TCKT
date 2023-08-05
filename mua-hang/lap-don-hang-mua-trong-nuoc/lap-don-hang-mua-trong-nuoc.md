@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Lập đơn hàng mua trong nước
+# Lập đơn hàng mua trong nước
 
 ## Mô tả nghiệp vụ
 
@@ -28,7 +28,7 @@ Dùng để cập nhật đơn hàng mua hàng hóa trong nước.
 
 **Bước 3**: Nhập các thông tin trên phiếu, sau đó nhấn **Lưu** để lưu phiếu.
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption><p>Đơn hàng mua trong nước</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption><p>Đơn hàng mua trong nước</p></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

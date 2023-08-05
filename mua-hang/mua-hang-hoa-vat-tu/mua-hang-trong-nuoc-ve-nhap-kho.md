@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Mua hàng trong nước ghi nhận công nợ
+# Mua hàng trong nước ghi nhận công nợ
 
 ## **Mô tả nghiệp vụ**
 
@@ -34,7 +34,7 @@ Có TK 331: Phải trả cho người bán
 
 **Bước 3:** Nhập các thông tin trên hóa đơn và nhấn **Lưu**.
 
-Ngoài ra có thể kế thừa thông tin từ đơn hàng đã lập (hướng dẫn thao tác kế thừa [tại đây](http://127.0.0.1:5000/s/uQIjY7kVhyePdTM2Jf1L/tien-ich-khac/tinh-nang-ke-thua-du-lieu)).
+Ngoài ra có thể kế thừa thông tin từ đơn hàng đã lập (hướng dẫn thao tác kế thừa [tại đây](../lap-don-hang-mua-trong-nuoc/duyet-don-hang-1.md)).
 
 <figure><img src="../../.gitbook/assets/mua hàng trong nước 01.png" alt=""><figcaption><p>Hóa đơn mua trong nước</p></figcaption></figure>
 

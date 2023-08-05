@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Phát hành hóa đơn điện tử
+# Phát hành hóa đơn điện tử
 
 ## Hướng dẫn thao tác
 
@@ -63,7 +63,7 @@ Tính năng này cho phép phát hành 1 hoặc nhiều hóa đơn điện tử 
 
 Lưu ý: Phần mềm hỗ trợ tính năng xem trước nội dung hóa đơn điện tử trước khi phát hành (hóa đơn nháp) bằng cách chọn hóa đơn rồi nhấn nút In ấn. Khuyến nghị người dùng sử dụng tính năng này trước khi phát hành HĐĐT để hạn chế sai sót phải điều chỉnh/ hủy hóa đơn.
 
-<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 3**: Ký các hóa đơn chờ ký. Nếu doanh nghiệp ký bằng HSM và cài đặt khi phát hành là ký luôn thì không thực hiện bước này.
 

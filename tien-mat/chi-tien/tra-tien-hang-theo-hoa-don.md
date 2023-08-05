@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Trả tiền hàng theo hóa đơn
+# Trả tiền hàng theo hóa đơn
 
 ## Mô tả nghiệp vụ
 
@@ -34,9 +34,9 @@ Có TK 111 Tiền mặt (1111, 1112)
 
 Có thể chọn từng hoá đơn hoặc chọn đồng loạt nhiều hoá đơn, chương trình tự gắn nhiều dòng trên chi tiết phiếu.
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption><p>Phiếu chi tiền</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption><p>Phiếu chi tiền</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Phiếu chi tiền</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Phiếu chi tiền</p></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

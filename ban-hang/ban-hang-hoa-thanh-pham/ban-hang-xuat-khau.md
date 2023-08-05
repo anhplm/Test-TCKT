@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Bán hàng xuất khẩu
+# Bán hàng xuất khẩu
 
 ## Định khoản
 
@@ -38,7 +38,7 @@ Có TK 155, 156 Thành phẩm; Hàng hóa
 
 **Bước 3:** Nhập các thông tin trên hóa đơn**.**
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption><p>Hóa đơn bán hàng</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption><p>Hóa đơn bán hàng</p></figcaption></figure>
 
 * Khai báo các thông tin chung: mã khách, tài khoản nợ, ngày hạch toán, loại tiền tệ, tỷ giá, trạng thái,…
 * Khai báo thẻ Chi tiết: mã hàng, mã kho, số lượng, giá bán, tài khoản doanh thu, tài khoản vật tư, tài khoản giá vốn, … Tài khoản thuế có lúc này là **TK thuế xuất khẩu 3333**.

@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Theo dõi tiến độ thanh toán theo hợp đồng bán hàng
+# Theo dõi tiến độ thanh toán theo hợp đồng bán hàng
 
 ## Mô tả nghiệp vụ
 
@@ -22,7 +22,7 @@ Bán hàng với số lượng lớn, phát sinh hợp đồng bán hàng với 
 
 ### Khai báo danh mục hợp đồng
 
-Xem cách khai báo hợp đồng và tiến độ thanh toán [tại đây](done-danh-muc-hop-dong-ban.md).
+Xem cách khai báo hợp đồng và tiến độ thanh toán [tại đây](danh-muc-hop-dong-ban.md).
 
 ### Thu tiền thanh toán từng đợt theo hợp đồng
 

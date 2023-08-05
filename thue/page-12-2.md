@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Lập và nộp tờ khai Quyết toán thuế TNDN
+# Lập và nộp tờ khai Quyết toán thuế TNDN
 
 ## Mô tả
 
@@ -26,11 +26,11 @@ Khi quyết toán năm, ngoài bộ báo cáo tài chính thì kế toán phải
 
 **Bước 2**: Chọn năm quyết toán, chọn loại tờ khai lần đầu hay tờ khai bổ sung, chọn báo cáo KQKD theo thông tư sử dụng.
 
-<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 3**: Kiểm tra dữ liệu trên tờ khai, nếu có chỉ tiêu cần cập nhật thêm hoặc chỉnh sửa thì sửa trực tiếp trên tờ khai.
 
-<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 4**: Nhấn nút chức năng **Lập tờ khai** để tạo lập tờ khai.
 

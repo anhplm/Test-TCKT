@@ -24,13 +24,13 @@ Báo cáo dùng để theo dõi số dư tiền (Tiền mặt/ tiền gửi ngâ
 
 **Bước 2:** Nhập điều kiện lọc báo cáo và nhấn **Đồng ý**
 
-<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption><p>Màn hình lọc báo cáo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (184).png" alt=""><figcaption><p>Màn hình lọc báo cáo</p></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 
 * Chọn tài khoản theo dõi tiền (111, 112...), có thể chọn tài khoản cấp chi tiết.
 * Ngày: nhập ngày cần theo dõi số dư quỹ, ngày này sẽ là điều kiện lọc số liệu báo cáo và lên mẫu in.
 
-<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption><p>Thông tin báo cáo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (185).png" alt=""><figcaption><p>Thông tin báo cáo</p></figcaption></figure>
 
 **Bước 3:** Khi cần in báo cáo nhấn **In** và chọn mẫu cần in

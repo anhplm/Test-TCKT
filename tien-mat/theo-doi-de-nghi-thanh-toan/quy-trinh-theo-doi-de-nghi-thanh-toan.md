@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Quy trình theo dõi đề nghị thanh toán
+# Quy trình theo dõi đề nghị thanh toán
 
 Tài liệu mô tả quy trình theo dõi đề nghị thanh toán, duyệt đề nghị thanh toán theo các cấp duyệt, giúp kiểm soát tốt và kế hoạch chi rõ ràng.
 
@@ -31,7 +31,7 @@ Có hai loại đề nghị chi:
 
 **Bước 2:** Duyệt đề nghị thanh toán
 
-Trường hợp đơn vị có theo dõi quy trình duyệt đề nghị thanh toán, cần khai báo người duyệt và phân quyền duyệt. Tham khảo các bước [tại đây](done-khai-bao-va-duyet-de-nghi-thanh-toan.md).
+Trường hợp đơn vị có theo dõi quy trình duyệt đề nghị thanh toán, cần khai báo người duyệt và phân quyền duyệt. Tham khảo các bước [tại đây](khai-bao-va-duyet-de-nghi-thanh-toan.md).
 
 **Bước 3:** Thanh toán theo đề nghị thanh toán được duyệt
 
@@ -41,11 +41,11 @@ Sau khi đề nghị chi được duyệt, kế toán thanh toán tiến hành l
 
 Lấy dữ liệu từ Cập nhật đề nghị thanh toán
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Phiếu chi tiền</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Phiếu chi tiền</p></figcaption></figure>
 
 Trên màn hình lấy dữ liệu, cần nhập ngày lọc, mã đối tượng và chọn số phiếu đề nghị chi
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 Sau khi lấy dữ liệu, kiểm tra thông tin nhập liệu trên phiếu chi và nhấn **Lưu**
 

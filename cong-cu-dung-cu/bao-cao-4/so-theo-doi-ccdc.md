@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[Done] Sổ theo dõi công cụ dụng cụ
+# Sổ theo dõi công cụ dụng cụ
 
 Sổ công cụ dụng cụ dùng để theo dõi chi tiết tình hình tăng giảm của từng công cụ trong doanh nghiệp. Giúp kế toán theo dõi nguyên giá và giá trị phân bổ qua từng năm.
 
@@ -22,9 +22,9 @@ Sổ công cụ dụng cụ dùng để theo dõi chi tiết tình hình tăng g
 
 **Bước 2:** Nhập điều kiện lọc và nhấn **Đồng ý.**
 
-<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption><p>Nhập điều kiện lọc </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption><p>Nhập điều kiện lọc </p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption><p>Sổ công cụ dụng cụ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption><p>Sổ công cụ dụng cụ</p></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

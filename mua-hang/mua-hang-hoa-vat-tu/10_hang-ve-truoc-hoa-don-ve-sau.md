@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Hàng về trước hóa đơn về sau
+# Hàng về trước hóa đơn về sau
 
 ## Mô tả nghiệp vụ
 
@@ -33,7 +33,7 @@ Hạch toán:
 * Nợ 152, 156,.. Vật tư, hàng hóa
 * Có 3388 Phải trả khác
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 ### Xử lý hóa đơn về
 
@@ -41,7 +41,7 @@ Hạch toán:
 
 Người dùng vào **Hóa đơn mua hàng trong nước** đã nhập ở bước trên tick vào tickbox Hóa đơn, sửa lại tài khoản có từ 3388 về 3311, cập nhật lại giá, tiền theo hóa đơn và bổ sung thêm số hóa đơn, ngày hóa đơn GTGT đồng thời kê khai thuế bên tab **Thuế.**
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 #### Hóa đơn về khác tháng với phiếu nhập và không có chênh lệch về giá trị so với khi nhập kho
 
@@ -57,7 +57,7 @@ Nợ 133 Thuế GTGT đầu ra
 
 Có 331 Phải trả người bán
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 Tab thuế
 

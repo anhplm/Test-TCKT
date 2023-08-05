@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[Done]Khai báo giảm CCDC do thanh lý, nhượng bán, hư hỏng
+# Khai báo giảm CCDC do thanh lý, nhượng bán, hư hỏng
 
 ## Mô tả nghiệp vụ
 
@@ -22,7 +22,7 @@ Khi có nhu cầu thanh lý, nhượng bán CCDC do không có nhu cầu sử d�
 
 **Hạch toán giảm công cụ, dụng cụ**
 
-Nợ TK 811 Chi phí khác
+Nợ 623, 627, 6413, 642 Chi phí dụng cụ sản xuất; Chi phí dụng cụ, đồ dùng
 
 Có TK 242 Chi phí trả trước
 
@@ -38,19 +38,9 @@ Có TK 3331 Thuế GTGT phải nộp (nếu có).
 
 ### Khai báo giảm công cụ
 
-### Hạch toán chứng từ bán tài sản
+**Bước 1**: Vào khai báo giảm CCDC theo đường dẫn: _**Công cụ/ Nhập liệu/ Khai báo tăng/giảm/ Khai báo giảm/hỏng.**_
 
-**Bước 1:** Vào phiếu kế toán theo đường dẫn _**Tổng hợp/ Nhập liệu/ Hạch toán/ Phiếu kế toán.**_
-
-**Bước 2:** Trên thanh công cụ, nhấn **Thêm** để tạo mới chứng từ.
-
-**Bước 3:** Nhập các thông tin hoá đơn cần thiết và nhấn **Lưu.**
-
-<figure><img src="../../.gitbook/assets/thanh lý nhượng bán cc.png" alt=""><figcaption></figcaption></figure>
-
-**Bước 4**: Vào khai báo giảm CCDC theo đường dẫn: _**Công cụ/ Nhập liệu/ Khai báo tăng/giảm/ Khai báo giảm/hỏng.**_
-
-**Bước 5:** Chọn mã công cụ cần ghi nhận giảm và nhấn biểu tượng **Sửa** trên thanh công cụ. Nhập thông tin và nhấn **Lưu.**
+**Bước 2:** Chọn mã công cụ cần ghi nhận giảm và nhấn biểu tượng **Sửa** trên thanh công cụ. Nhập thông tin và nhấn **Lưu.**
 
 <figure><img src="../../.gitbook/assets/Khai báo giảm cc 01.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +50,7 @@ Có TK 3331 Thuế GTGT phải nộp (nếu có).
 * Nhập ngày ghi nhận giảm công cụ.
 * Nhập Số chứng từ có liên quan.
 
-### Hạch toán chứng từ bán tài sản
+### Hạch toán chứng từ bán công cụ
 
 **Bước 1:** Vào đường dẫn _**Bán hàng/ Nhập liệu/ Hoá đơn bán dịch vụ**_
 

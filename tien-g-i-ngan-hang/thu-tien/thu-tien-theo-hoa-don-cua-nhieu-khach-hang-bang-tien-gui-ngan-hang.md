@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Thu tiền theo hóa đơn bằng tài khoản ngân hàng
+# Thu tiền theo hóa đơn bằng tài khoản ngân hàng
 
 ## Mô tả nghiệp vụ
 
@@ -32,11 +32,11 @@ Có TK 131 Phải thu khách hàng
 
 **Bước 3:** Chọn **Loại chứng từ** là **1. Theo hóa đơn**, nhập các thông tin trên phiếu và nhấn **Lưu.**
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption><p>Giấy báo có</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption><p>Giấy báo có</p></figcaption></figure>
 
 Có thể chọn từng hoá đơn hoặc chọn đồng loạt nhiều hoá đơn, chương trình tự gắn nhiều dòng trên chi tiết phiếu.
 
-<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption><p>Giấy báo có chọn đồng loạt nhiều hoá đơn</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption><p>Giấy báo có chọn đồng loạt nhiều hoá đơn</p></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

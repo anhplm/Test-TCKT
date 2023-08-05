@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Báo giá
+# Báo giá
 
 ## Mô tả nghiệp vụ
 
@@ -26,6 +26,6 @@ Giấy báo giá được xem như là bước đầu tiên trong quy trình bá
 
 **Bước 3:** Nhập các thông tin trên phiếu và nhấn **Lưu**.
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Báo giá</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Báo giá</p></figcaption></figure>
 
 **Bước 4:** Chọn biểu tượng **In** trên chứng từ hoặc thanh công cụ để in chứng từ và gửi cho khách hàng.

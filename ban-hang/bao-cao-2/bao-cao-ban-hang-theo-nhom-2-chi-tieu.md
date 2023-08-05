@@ -20,7 +20,7 @@ Báo cáo thể hiện tình hình bán hàng trong kỳ lọc nhóm theo 2 ch�
 
 <figure><img src="../../.gitbook/assets/Báo cáo bán hàng nhóm theo 2 chỉ tiêu.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 Ngoài báo cáo đã có sẵn trên hệ thống, người dùng có thể chọn mẫu phân tích báo cáo xoay theo nhu cầu theo dõi của doanh nghiệp như xoay theo Số lượng, xoay theo Doanh thu, xoay theo Số lượng- Doanh thu hoặc xoay theo Số lượng- Doanh thu- Vốn lãi.
 

@@ -16,7 +16,7 @@ layout:
 
 ## Mô tả nghiệp vụ
 
-Sau khi khai báo thông tin công cụ, do tình hình thực tế thay đổi nên cần điều chỉnh lại thông tin tài khoản khấu hao, do sai sót trong quá trình nhập liệu thì người dùng có thể điều chỉnh lại thông tin.
+Người dùng có nhu cầu thay đổi thông tin CCDC sau khi đã cập nhật lên hệ thống mà chưa chạy tính phân bổ và bút toán phân bổ.
 
 ## Các bước thực hiện
 
@@ -40,4 +40,4 @@ Sau khi khai báo thông tin công cụ, do tình hình thực tế thay đổi 
 
 **Bước 3:** Sửa các thông tin cần sửa và nhấn **Lưu.**
 
-<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>

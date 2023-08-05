@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # Nhập kho
 
 Mô tả các nghiệp vụ nhập kho nội bộ thường phát sinh trong doanh nghiệp

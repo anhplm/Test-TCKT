@@ -22,7 +22,7 @@ Báo cáo thể hiện chi tiết phát sinh của hợp đồng theo phát sinh
 
 <figure><img src="../../.gitbook/assets/Sổ chi tiết theo hợp đồng.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Báo cáo lên chi tiết phát sinh theo từng chứng từ theo tài khoản và mã hợp đồng đã lọc.
 

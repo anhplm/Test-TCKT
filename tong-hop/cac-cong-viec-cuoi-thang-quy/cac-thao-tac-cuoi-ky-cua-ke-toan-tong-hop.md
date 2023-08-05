@@ -14,6 +14,10 @@ layout:
 
 # Các thao tác cuối kỳ của kế toán tổng hợp
 
+
+
+<table><thead><tr><th width="69.33333333333331">TT</th><th width="250">Các bút toán</th><th width="331">Ý nghĩa</th><th>Hướng dẫn</th></tr></thead><tbody><tr><td>1</td><td>Bút toán phân bổ công cụ, chi phí trả trước</td><td>Phân bổ chi phí công cụ dụng cụ, chi phí trả trước để ghi nhận vào chi phí sản xuất kinh doanh của doanh nghiệp</td><td>Tại đây</td></tr><tr><td>2</td><td>Bút toán khấu hao tài sản cố định</td><td>Trích giá trị hao mòn của tài sản vào chi phí sản xuất kinh doanh của doanh nghiệp</td><td>Tại đây</td></tr><tr><td>3</td><td>Tính giá hàng tồn kho</td><td>Tính giá hàng tồn kho để xác định giá trị hàng tồn kho, áp giá xuất vào các chứng từ xuất kho để xác định giá vốn</td><td>Tại đây</td></tr><tr><td>4</td><td>Tính giá thành</td><td>Tính giá thành sản xuất thành phẩm, áp giá nhập cho các phiếu nhập kho thành phẩm sản xuất trong kỳ</td><td>Tại đây</td></tr><tr><td>5</td><td>Kết chuyển lãi lỗ</td><td>Kết chuyển các tài khoản đầu 5,6,7,8 sang tài khoản 911 để xác định kết quả sản xuất kinh doanh trong kỳ</td><td>Tại đây</td></tr><tr><td>6</td><td>Tính tỷ giá ghi sổ</td><td>Tính tỷ giá trung bình phát sinh trong tháng, áp tỷ giá vào các chứng từ có phát sinh ngoại tệ để tạo các bút toán chênh lệch tỷ giá (nếu có)</td><td>Tại đây</td></tr><tr><td>7</td><td>Đánh giá chênh lệch tỷ giá</td><td>Đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại thời điểm lập Báo cáo tài chính</td><td>Tại đây</td></tr><tr><td>8</td><td>Kiểm tra báo cáo tài chính</td><td>Sau kết chuyển các số dư tài khoản xác định kết quả kinh doanh, kế toán viên sẽ kiểm tra lại các báo cáo tài chính tại thời điểm cuối kỳ</td><td>Tại đây</td></tr></tbody></table>
+
 Tài liệu mô tả các thao tác cuối kỳ của kế toán tổng hợp, bao gồm:
 
 * Phân bổ công cụ

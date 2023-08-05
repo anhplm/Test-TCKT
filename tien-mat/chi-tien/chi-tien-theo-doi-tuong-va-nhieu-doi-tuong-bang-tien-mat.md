@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Chi tiền theo đối tượng và nhiều đối tượng bằng tiền mặt
+# Chi tiền theo đối tượng và nhiều đối tượng bằng tiền mặt
 
 ## Mô tả nghiệp vụ
 
@@ -34,7 +34,7 @@ Có TK 111 Tiền mặt (1111, 1112)
 
 **Bước 3:** Chọn Loại phiếu chi **2. Chi theo đối tượng,** nhập thông tin phiếu và nhấn **Lưu**
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption><p>Phiếu chi tiền</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption><p>Phiếu chi tiền</p></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 
@@ -48,8 +48,8 @@ Có TK 111 Tiền mặt (1111, 1112)
 
 Nếu có theo dõi công nợ theo hoá đơn thì chọn **Phân bổ** để phân bổ Phiếu chi tiền theo từng đối tượng của hoá đơn.
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption><p>Phân bổ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p>Phân bổ</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 Trường hợp dùng chức năng **Phân bổ tiền hàng trả cho các hoá đơn**, tham khảo ([Tại đây](../../mua-hang/quan-ly-tuoi-no-hoa-don/18\_doi-tru-chung-tu-cong-no-cua-nha-cung-cap.md))

@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Lập và nộp tờ khai thuế GTGT
+# Lập và nộp tờ khai thuế GTGT
 
 ## Mô tả
 
@@ -29,7 +29,7 @@ Doanh nghiệp nộp thuế GTGT theo phương phấu khấu trừ thì sẽ ph�
 * Thời gian: Tờ khai tháng/ Tờ khai quý/ Tờ khai năm và năm kê khai.
 * Loại tờ khai: Tờ khai lần đầu/ Tờ khai bổ sung.
 
-<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 3**: Kiểm tra dữ liệu tờ khai theo dữ liệu đã cập nhật trên hệ thống. Lưu ý kiểm tra các khoản thuế đầu vào, đầu ra tương ứng với tài khoản 133, 333 bên sổ cái.
 
@@ -37,11 +37,11 @@ Doanh nghiệp nộp thuế GTGT theo phương phấu khấu trừ thì sẽ ph�
 
 **Bước 4**: Nhập các chỉ tiêu điều chỉnh (nếu có), sau đó nhấn nút **Tính lạ**i để lưu dữ liệu đã được điều chỉnh này. Các chỉ tiêu công thức phần mềm sẽ tự động tính toán.
 
-<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 5**: Kiểm tra lại 1 lần nữa số liệu trên tờ khai, sau khi đã xác nhận độ chính xác của số liệu, nhấn vào nút chức năng Lập tờ khai để chương trình tạo lập tờ khai dựa trên dữ liệu này.
 
-<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 6**: Kiểm tra tờ khai đã được tạo lập trên hệ thống tại đường dẫn _**Thuế/ Nhập liệu/ Tờ khai thuế đã lập.**_ Tại đây, người dùng kiểm tra lại các thông tin tạo lập, nếu có sai sót thì điều chỉnh lại để nộp lên thuế.
 
@@ -53,7 +53,7 @@ Doanh nghiệp nộp thuế GTGT theo phương phấu khấu trừ thì sẽ ph�
 
 * Tờ khai thuế GTGT PL 43: Doanh nghiệp được giảm thuế theo Nghị quyết 43/2022/QH15 và Nghị định 44/2023/NĐ-CP, khi nộp tờ khai sẽ đính kèm PL43/ PL44. Người dùng qua tab Tờ khai thuế GTGT PL43, và nhấn vào nút In ấn để in phụ lục đính kèm dạng Excel.
 
-<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 ## Kết xuất XML và nộp thuế
 

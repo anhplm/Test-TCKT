@@ -14,6 +14,8 @@ layout:
 
 # Sổ quỹ và Sổ quỹ in từng ngày
 
+## Mô tả nghiệp vụ
+
 Báo cáo theo dõi chi tiết các phát sinh liên quan đến tài khoản tiền, người dùng có thể theo dõi tồn quỹ đầu kỳ, các phát sinh và dư quỹ trong khoảng thời gian của điều kiện lọc.
 
 Đối với sổ quỹ in từng ngày, người dùng có thể theo dõi chi tiết nhóm theo từng ngày.

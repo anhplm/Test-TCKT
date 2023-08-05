@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # Báo cáo tình trạng đề nghị thanh toán
 
 ## Mô tả nghiệp vụ
@@ -19,7 +33,7 @@ Dùng để theo dõi tình hình chi tiền theo đề nghị thanh toán
 * Mã bộ phận
 * Trạng thái: trạng thái của đề nghị thanh toán
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Thông tin báo cáo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Thông tin báo cáo</p></figcaption></figure>
 
 * Báo cáo theo dõi tình trạng của đề nghị chi như số chứng từ, ngày chứng từ, số tiền đề nghị, số tiền kế toán đã chi và số tiền còn lại
 

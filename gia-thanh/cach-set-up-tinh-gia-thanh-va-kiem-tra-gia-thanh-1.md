@@ -43,7 +43,7 @@ Kiểm tra tại: _**Tổng hợp/ Báo cáo/ Sổ kế toán/ Sổ cái lên ch
 
 Kiểm tra tại: _**Giá thành/ Báo cáo/ Báo cáo giá thành sản phẩm theo nhóm yếu tố**_
 
-<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 ## Kiểm tra chi tiết giá thành
 

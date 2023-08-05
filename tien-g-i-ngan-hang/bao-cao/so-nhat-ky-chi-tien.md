@@ -14,6 +14,8 @@ layout:
 
 # Sổ nhật ký chi tiền
 
+## Mô tả nghiệp vụ
+
 Báo cáo theo dõi chi tiết theo ngày các chứng từ liên quan đến các khoản chi tiền.
 
 ## Sổ nhật ký chi tiền

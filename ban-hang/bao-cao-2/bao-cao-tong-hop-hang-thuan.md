@@ -20,6 +20,6 @@ Báo cáo này cho biết thông tin số lượng và doanh số bán hàng, tr
 
 <figure><img src="../../.gitbook/assets/Báo cáo tổng hợp bán hàng thuần.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://github.com/anhplm/TC-KT/blob/main/.gitbook/assets/sb_7%20(4).png" alt=""><figcaption></figcaption></figure>

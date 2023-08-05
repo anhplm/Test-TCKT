@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Điều chỉnh giảm giá hàng bán
+# Điều chỉnh giảm giá hàng bán
 
 ## Mô tả nghiệp vụ
 
@@ -34,7 +34,7 @@ Hóa đơn điều chỉnh giảm giá hàng bán được thực hiện trên p
 
 **Bước 2**: Trên thanh công cụ nhấn nút **Thêm** để tạo mới 1 phiếu.
 
-**Bước 3**: Chọn loại hóa đơn là **Giảm giá,** trường hợp người dùng muốn phát hành hóa đơn, phải kế thừa từ hóa đơn gốc đã phát hành từ Arito trước đó, chỉ điều chỉnh cho một hóa đơn gốc (Tham khảo thao tác kế thừa [tại đây](http://127.0.0.1:5000/s/rcD7ImF1NXzNzFohN8p5/ke-thua-du-lieu-theo-quy-trinh)).
+**Bước 3**: Chọn loại hóa đơn là **Giảm giá,** trường hợp người dùng muốn phát hành hóa đơn, phải kế thừa từ hóa đơn gốc đã phát hành từ Arito trước đó, chỉ điều chỉnh cho một hóa đơn gốc (Tham khảo thao tác kế thừa [tại đây](http://127.0.0.1:5000/s/rcD7ImF1NXzNzFohN8p5/thao-tac-chuc-nang-tren-he-thong/ke-thua-du-lieu-theo-quy-trinh)).
 
 <figure><img src="../../.gitbook/assets/Hóa đơn điều chỉnh tăng giá.png" alt=""><figcaption></figcaption></figure>
 

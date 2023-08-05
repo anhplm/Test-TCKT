@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Điều chỉnh tăng giá trị tài sản cố định
+# Điều chỉnh tăng giá trị tài sản cố định
 
 ## Mô tả nghiệp vụ
 
@@ -45,7 +45,7 @@ Có TK 412 Chênh lệch đánh giá lại tài sản
 * Phiếu kế toán: _**Tổng hợp/ Nhập liệu/ Hạch toán/ Phiếu kế toán**_. Dùng trong trường hợp: Định giá lại tài sản
 * Hóa đơn mua dịch vụ: _**Mua hàng/ Nhập liệu/ Hóa đơn mua vào/ Hóa đơn mua dịch vụ**_. Dùng trong trường hợp: Thay thế, sửa chữa, lắp ráp thêm phụ tùng,...
 
-<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption><p>Hóa đơn mua dịch vụ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption><p>Hóa đơn mua dịch vụ</p></figcaption></figure>
 
 **Bước 2:** Vào màn hình điều chỉnh giá trị theo đường dẫn: _**Tài sản/ Khai báo tăng/giảm TSCĐ/ Điều chỉnh TSCĐ.**_
 

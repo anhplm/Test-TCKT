@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Quy trình theo dõi công nợ phải thu theo tuổi nợ
+# Quy trình theo dõi công nợ phải thu theo tuổi nợ
 
 ## Mô tả
 
@@ -22,12 +22,12 @@ Tài liệu mô tả cách theo dõi thanh toán công nợ hoá đơn theo đi�
 
 ### Khai báo danh mục
 
-* Danh mục hạn thanh toán quy định thời gian nợ của khách hàng, cách khai báo [tại đây](done-danh-muc-han-thanh-toan.md).
+* Danh mục hạn thanh toán quy định thời gian nợ của khách hàng, cách khai báo [tại đây](danh-muc-han-thanh-toan.md).
 * Danh mục khách hàng, quy định hạn thanh toán của từng khách hàng cụ thể.
 
-<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
-* Danh mục điều kiện thanh toán quy định điều kiện thanh toán cụ thể của khách hàng, cách khai báo [tại đây](done-danh-muc-dieu-kien-thanh-toan.md).
+* Danh mục điều kiện thanh toán quy định điều kiện thanh toán cụ thể của khách hàng, cách khai báo [tại đây](danh-muc-dieu-kien-thanh-toan.md).
 
 ### Cập nhật hạn thanh toán trên các chứng từ phát sinh
 
@@ -37,7 +37,7 @@ Tài liệu mô tả cách theo dõi thanh toán công nợ hoá đơn theo đi�
 
 ### Thu công nợ khách hàng
 
-Xem chi tiết cách thu tiền theo dõi công nợ hóa đơn khách hàng [tại đây](../thanh-toan/done-thu-tien-ban-hang-khach-hang-no.md).
+Xem chi tiết cách thu tiền theo dõi công nợ hóa đơn khách hàng [tại đây](../thanh-toan/thu-tien-ban-hang-khach-hang-no.md).
 
 ### Đối trừ công nợ
 
@@ -51,7 +51,7 @@ Phân bổ/ đối trừ chứng từ thu tiền cho hóa đơn [tại đây](ph
 
 <figure><img src="../../.gitbook/assets/Hạn thanh toán 4.png" alt=""><figcaption></figcaption></figure>
 
-[**Bảng kê chi tiết thu tiền theo hóa đơn**](done-bang-ke-chi-tiet-thu-tien-theo-hoa-don.md)
+[**Bảng kê chi tiết thu tiền theo hóa đơn**](bang-ke-chi-tiet-thu-tien-theo-hoa-don.md)
 
 Đường dẫn: _**Bán hàng/Báo cáo/Bảng kê chi tiết thu tiền theo hóa đơn**_
 

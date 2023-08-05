@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Kiểm tra chi tiền dưới mức tồn quỹ tối thiểu
+# Kiểm tra chi tiền dưới mức tồn quỹ tối thiểu
 
 Tài liệu giúp người dùng có thể kiểm soát lượng tiền dư quỹ, không để chi âm tiền vượt mức dư quỹ tối thiểu
 

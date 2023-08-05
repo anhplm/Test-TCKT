@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Sổ tài sản cố định
+# Sổ tài sản cố định
 
 Sổ tài sản cố định dùng để theo dõi chi tiết tình hình tăng giảm tài sản.
 
@@ -22,9 +22,9 @@ Sổ tài sản cố định dùng để theo dõi chi tiết tình hình tăng 
 
 **Bước 2:** Nhập điều kiện lọc và nhấn **Đồng ý.**
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Nhập điều kiện lọc</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption><p>Nhập điều kiện lọc</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption><p>Sổ tài sản cố định</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption><p>Sổ tài sản cố định</p></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

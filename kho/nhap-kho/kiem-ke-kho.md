@@ -49,7 +49,7 @@ Phần mềm sẽ thể hiển tất cả mặt hàng đã từng phát sinh t�
 Các cách cập nhật số liệu vào phần mềm:
 
 * Cập nhật trực tiếp vào cột **Sl kiểm kê** theo từng sản phẩm
-* Import dữ liệu từ file excel (tham khảo [tạo đây](http://127.0.0.1:5000/s/rcD7ImF1NXzNzFohN8p5/import-du-lieu-tu-excel-vao-chuong-trinh))
+* Import dữ liệu từ file excel (tham khảo [tạo đây](http://127.0.0.1:5000/s/rcD7ImF1NXzNzFohN8p5/thao-tac-chuc-nang-tren-he-thong/import-du-lieu-tu-excel-vao-chuong-trinh))
 
 ### Bước 3: Xử lý chênh lệch kiểm kê
 

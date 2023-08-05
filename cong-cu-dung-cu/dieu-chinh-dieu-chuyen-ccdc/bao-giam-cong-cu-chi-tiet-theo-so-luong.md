@@ -28,13 +28,13 @@ Hướng dẫn các thao tác giảm và theo dõi CCDC chi tiết theo số lư
 
 <figure><img src="../../.gitbook/assets/CCDC01.png" alt=""><figcaption><p>Danh mục công cụ dụng cụ</p></figcaption></figure>
 
-**Bước 3:** Nhập số lượng/Đvt và check chọn Phân bổ chi tiết theo số lượng.
+**Bước 3:** Nhập số lượng/Đvt và tick chọn Phân bổ chi tiết theo số lượng.
 
 <figure><img src="../../.gitbook/assets/CCDC02.png" alt=""><figcaption><p>Khai báo thông tin công cụ</p></figcaption></figure>
 
 ### Báo giảm công cụ chi tiết theo số lượng.
 
-**Bước 1:** Vào phiếu giảm công cụ theo đường dẫn: _**Kế toán/ Công cụ/ Nhập liệu/ Điều chuyển CCDC/ Điều chuyển/báo giảm số lượng chi tiết công cụ.**_
+**Bước 1:** Vào phiếu giảm công cụ theo đường dẫn: _**Công cụ/ Nhập liệu/ Điều chuyển/báo giảm số lượng chi tiết công cụ.**_
 
 **Bước 2:** Chọn nút **Thêm** trên thanh công cụ để thêm mới phiếu.
 

@@ -12,11 +12,11 @@ layout:
     visible: false
 ---
 
-# \[done]Điều chỉnh tăng giá trị công cụ dụng cụ
+# Điều chỉnh tăng giá trị công cụ dụng cụ
 
 ## Mô tả nghiệp vụ
 
-Trong quá trình sử dụng công cụ dụng cụ có sự thay đổi về kết cấu, lắp rắp thêm làm tăng giá trị của công cụ.
+Trong quá trình sử dụng công cụ dụng cụ có sự thay đổi về kết cấu, lắp rắp thêm hoặc sửa chữa thay thế phụ tùng làm tăng giá trị của công cụ.
 
 Khi điều chỉnh tăng, phần giá trị tăng sẽ được cộng thêm vào giá trị còn lại của công cụ và phân bổ cho số kỳ phân bổ còn lại.
 
@@ -40,7 +40,7 @@ Hóa đơn mua dịch vụ: _**Mua hàng/ Nhập liệu/ Hóa đơn mua vào/ H�
 
 **Bước 3:** Nhập điều kiện lọc mã điều chỉnh, có thể không nhập điều kiện lọc thì sẽ hiện tất cả mã điều chỉnh.
 
-<figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption><p>Nhập điều kiện lọc</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption><p>Nhập điều kiện lọc</p></figcaption></figure>
 
 **Bước 4:** Chọn nút **Thêm** trên thanh công cụ để thêm mới phiếu.
 
@@ -56,10 +56,10 @@ Hóa đơn mua dịch vụ: _**Mua hàng/ Nhập liệu/ Hóa đơn mua vào/ H�
 
 **Ví dụ:**
 
-* Công cụ: Máy tính Lenovo có nguyên giá 50.000.000đ. Ngày bắt đầu tính phân bổ là ngày 12/06/2022.
+* Công cụ: Máy tính Lenovo có nguyên giá 25.000.000đ. Ngày bắt đầu tính phân bổ là ngày 12/06/2022.
   * Số kỳ phân bổ 12 tháng
-  * Giá trị phân bổ 1 kỳ là 4.166.666,67.&#x20;
+  * Giá trị phân bổ 1 kỳ là 2.083.333
 * Tại thời điểm điều chỉnh ngày 12/07/2023.
-  * Số kỳ phân bổ còn lại là 11 tháng, giá trị điều chỉnh tăng là 4.500.000đ.
-  * Giá trị phân bổ điều chỉnh 1 kỳ = 4.500.000 / 11 = 409.090,91
-  * \=> Giá trị khấu hao sau điều chỉnh = 4.166.666,67 + 409.090,91 = 4.575.757,91
+  * Số kỳ phân bổ còn lại là 11 tháng, giá trị điều chỉnh tăng là 5.000.000đ.
+  * Giá trị phân bổ điều chỉnh 1 kỳ = 5.000.000 / 11 = 454.545
+  * \=> Giá trị khấu hao sau điều chỉnh = 2.083.333 + 454.545 = 2.537.878

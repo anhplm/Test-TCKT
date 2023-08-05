@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Điều chỉnh tăng giá trị TSCĐ từ XDCB nghiệm thu
+# Điều chỉnh tăng giá trị TSCĐ từ XDCB nghiệm thu
 
 ## Mô tả nghiệp vụ
 
@@ -59,7 +59,7 @@ Phiếu kế toán được thực hiện trên phần mềm như sau:
 
 **Bước 4:** Nhập các thông tin trên phiếu và nhấn **Lưu**.
 
-<figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

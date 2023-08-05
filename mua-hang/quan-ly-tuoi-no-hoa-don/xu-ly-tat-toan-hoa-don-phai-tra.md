@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Xử lý tất toán hóa đơn phải trả
+# Xử lý tất toán hóa đơn phải trả
 
 ## Mô tả nghiệp vụ
 
@@ -46,7 +46,7 @@ Sau khi nhấn Đồng ý ở màn hình lọc, chương trình sẽ hiện danh
 
 * Sau khi nhấn tất toán, chương trình sẽ tự sinh 1 bút toán tất toán hạch toán N331/C711. Tài khoản ghi nhận lãi khi tất toán được khai báo tại _**Hệ thống/ Tham số tùy chọn/ Kế toán**_
 
-<figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
 * Ngày chứng từ của phiếu tất toán theo ngày tất toán trên điều kiện lọc.
 

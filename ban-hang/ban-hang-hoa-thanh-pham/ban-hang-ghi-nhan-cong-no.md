@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Bán hàng ghi nhận công nợ
+# Bán hàng ghi nhận công nợ
 
 ## Mô tả nghiệp vụ
 
@@ -42,7 +42,7 @@ Có TK 155,156 Thành phẩm; Hàng hóa
 
 **Bước 3:** Nhập các thông tin trên hóa đơn và nhấn **Lưu.**
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Hóa đơn bán hàng</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Hóa đơn bán hàng</p></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

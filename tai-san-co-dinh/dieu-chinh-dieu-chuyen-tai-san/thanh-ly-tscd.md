@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Khai báo giảm tài sản cố định do thanh lý, nhượng bán
+# Khai báo giảm tài sản cố định do thanh lý, nhượng bán
 
 ## Mô tả nghiệp vụ
 
@@ -52,7 +52,7 @@ Có TK 711 Doanh thu khác
 * Nhập ngày ghi nhận giảm tài sản
 * Khi nhập Ngày giảm bị trùng hoặc nhỏ hơn tháng đã phân bổ khấu hao thì hệ thống sẽ xuất hiện cảnh báo và không cho lưu.
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption><p>Cảnh báo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption><p>Cảnh báo</p></figcaption></figure>
 
 **Bước 3:** Nhấn vào mã chứng từ để kiểm tra phiếu kế toán sinh tự động.
 
@@ -68,7 +68,7 @@ Có TK 711 Doanh thu khác
 
 **Bước 3:** Nhập các thông tin hoá đơn cần thiết và nhấn **Lưu**
 
-<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption><p>Hoá đơn bán dịch vụ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption><p>Hoá đơn bán dịch vụ</p></figcaption></figure>
 
 Các thông tin cần lưu ý:
 

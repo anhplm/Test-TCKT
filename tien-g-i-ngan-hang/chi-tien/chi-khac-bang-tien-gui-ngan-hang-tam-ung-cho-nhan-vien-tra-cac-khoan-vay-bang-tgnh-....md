@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[Done] Chi khác bằng tiền gửi ngân hàng
+# Chi khác bằng tiền gửi ngân hàng
 
 ## Mô tả nghiệp vụ
 
@@ -52,7 +52,7 @@ Có TK 112 Tiền gửi ngân hàng (1121, 1122)
 
 **Bước 3:** Chọn **Loại chứng từ** là **3. Chi khác,** nhập các thông tin trên phiếu và nhấn **Lưu.**
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

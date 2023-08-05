@@ -1,6 +1,6 @@
 # Tổng hợp
 
-## [Cách thiết lập lần đầu sử dụng chương trình](cac-thiet-lap-lan-dau-su-dung-chuong-trinh/)
+## [Cách thiết lập lần đầu sử dụng chương trình](broken-reference)
 
 ## [Các công việc đầu năm](cac-cong-viec-dau-nam.md)
 

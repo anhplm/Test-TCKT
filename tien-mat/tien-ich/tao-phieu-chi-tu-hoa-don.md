@@ -12,9 +12,9 @@ layout:
     visible: false
 ---
 
-# \[DONE] Tạo phiếu chi từ hóa đơn
+# Tạo phiếu chi từ hóa đơn
 
-
+## Chức năng
 
 Đây là tiện ích sử dụng trong quy trình mua hàng – thanh toán công nợ. Người dùng có thể sử dụng chức năng này để làm thanh toán cho nhà cung cấp hàng loạt mà không cần phải thực hiện chức năng phân bổ tự động (trường hợp theo dõi công nợ phải trả chi tiết theo từng hoá đơn).
 
@@ -32,7 +32,7 @@ layout:
 
 **Bước 4:** Nhập các thông tin trên màn hình thông tin chứng từ sẽ tạo và nhấn **Đồng ý.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption><p>Màn hình thông tin tạo chứng từ chi</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption><p>Màn hình thông tin tạo chứng từ chi</p></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

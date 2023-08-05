@@ -1,4 +1,18 @@
-# \[DONE] Chi khác bằng tiền mặt
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
+# Chi khác bằng tiền mặt
 
 ## **Mô tả nghiệp vụ**
 
@@ -15,7 +29,7 @@ Nợ TK 336 Phải trả nội bộ\
 Nợ TK 641 Chi phí bán hàng\
 Nợ TK 642 Chi phí quản lý doanh nghiệp\
 Nợ TK ...\
-Có TK 111 Tiền mặt (1111, 1112)Các bước thực hiện
+Có TK 111 Tiền mặt (1111, 1112)
 
 ## Các bước thực hiện
 
@@ -25,7 +39,7 @@ Có TK 111 Tiền mặt (1111, 1112)Các bước thực hiện
 
 **Bước 3:** Chọn Loại phiếu chi **3. Chi khác,** nhập các thông tin và nhấn **Lưu**
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Phiếu chi tiền</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Phiếu chi tiền</p></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

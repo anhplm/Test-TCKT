@@ -14,6 +14,8 @@ layout:
 
 # Sổ nhật ký thu tiền
 
+## Mô tả nghiệp vụ
+
 Báo cáo theo dõi chi tiết theo ngày các chứng từ liên quan đến các khoản thu tiền.
 
 ## Sổ nhật ký thu tiền

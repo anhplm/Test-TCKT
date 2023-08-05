@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE]Thu tiền theo hóa đơn
+# Thu tiền theo hóa đơn
 
 ## Mô tả nghiệp vụ
 
@@ -34,7 +34,7 @@ Có TK 131 Phải thu khách hàng
 
 Có thể chọn từng hoá đơn hoặc chọn đồng loạt nhiều hoá đơn, chương trình tự gắn nhiều dòng trên chi tiết phiếu.
 
-<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Thu tiền mặt theo hóa đơn 1.png" alt=""><figcaption></figcaption></figure>
 

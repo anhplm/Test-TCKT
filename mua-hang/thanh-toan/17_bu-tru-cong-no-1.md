@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Điều chỉnh giảm công nợ
+# Điều chỉnh giảm công nợ
 
 ## Mô tả nghiệp vụ
 
@@ -30,7 +30,7 @@ Có 515, 711, ... Doanh thu tài chính, Doanh thu khác
 
 **Bước 2:** Nhấn **thêm** để thêm mới chứng từ.
 
-<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 Một số thông tin cần lưu ý:
 

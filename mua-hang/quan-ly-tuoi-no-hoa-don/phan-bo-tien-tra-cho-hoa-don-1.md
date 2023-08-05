@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Cách gỡ hóa đơn đã phân bổ
+# Cách gỡ hóa đơn đã phân bổ
 
 ## Mô tả nghiệp vụ
 
@@ -57,7 +57,7 @@ Hóa đơn mua hàng đã phân bổ tiền trả, khi chọn sửa sẽ hiện 
 
 **Bước 2:** Nhập các thông tin để lọc chứng từ thanh toán và nhấn **Đồng ý.**
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

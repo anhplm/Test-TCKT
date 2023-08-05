@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Xác thực hóa đơn thay thế
+# Xác thực hóa đơn thay thế
 
 Hóa đơn thay thế được thực hiện trong trường hợp thay thế hoàn toàn hóa đơn đã phát hành bằng 1 hóa đơn mới. Nghiệp vụ thay thế sử dụng trong trường hợp hóa đơn gốc đã ký số và người bán lẫn người mua chưa kê khai thuế.
 
@@ -52,6 +52,6 @@ Vào màn hình hóa đơn tại đường dẫn: _**Bán hàng/Nhập liệu/H�
 
 Sau khi thay thế, Trạng thái HĐĐT của hóa đơn gốc trên phần mềm cũng sẽ chuyển sang trạng thái Thay thế. Để xem lịch sử thay thế của hóa đơn thì tại hóa đơn gốc vào tab HĐĐT click vào nút Chứng từ thay thế/điều chỉnh.
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 Hóa đơn gốc trên trang tra cứu HĐĐT của đối tác sẽ chuyển sang trạng thái Bị thay thế. Trên hóa đơn thay thế sẽ tự động thể hiện rõ thay thế cho hóa đơn nào.

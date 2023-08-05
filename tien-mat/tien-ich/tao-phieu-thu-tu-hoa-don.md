@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE] Tạo phiếu thu từ hóa đơn
+# Tạo phiếu thu từ hóa đơn
 
 ## Chức năng
 
@@ -32,7 +32,7 @@ layout:
 
 **Bước 4:** Nhập các thông tin trên màn hình thông tin chứng từ sẽ tạo và nhấn **Đồng ý.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Màn hình thông tin chứng từ thu tự động</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Màn hình thông tin chứng từ thu tự động</p></figcaption></figure>
 
 **Các thông tin cần lưu ý:**
 

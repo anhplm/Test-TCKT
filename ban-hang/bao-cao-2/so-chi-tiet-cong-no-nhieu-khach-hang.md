@@ -22,7 +22,7 @@ Báo cáo thể hiện số dư đầu kỳ, tình hình phát sinh trong kỳ v
 
 <figure><img src="../../.gitbook/assets/Sổ chi tiết công nợ nhiều khách hàng.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 
 

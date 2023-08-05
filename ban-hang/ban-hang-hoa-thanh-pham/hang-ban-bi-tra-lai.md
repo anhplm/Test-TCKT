@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# \[DONE]Hàng bán bị trả lại
+# Hàng bán bị trả lại
 
 ## Mô tả nghiệp vụ
 
@@ -53,7 +53,7 @@ Phiếu nhập hàng bán trả lại được thực hiện trên phần mềm 
 **Bước 3:** Nhập thông tin hàng bán trả lại, có 2 tình huống sau:
 
 * Hàng trả lại không biết là trả lại của hóa đơn xuất bán nào: Người dùng nhập thông tin khách hàng, hàng hóa, số lượng, giá bán và giá vốn trả lại. Giá vốn nếu không xác định được thì tick vào nút Trung bình để khi tính giá trung bình, chương trình áp giá vốn của tháng nhập trả vào.
-* Hàng hóa trả lại biết là trả lại của của hóa đơn nào, người dùng  kế thừa từ hóa đơn bán hàng trước đó, tham khảo thao tác kế thừa [tại đây](http://127.0.0.1:5000/s/rcD7ImF1NXzNzFohN8p5/ke-thua-du-lieu-theo-quy-trinh)
+* Hàng hóa trả lại biết là trả lại của của hóa đơn nào, người dùng  kế thừa từ hóa đơn bán hàng trước đó, tham khảo thao tác kế thừa [tại đây](http://127.0.0.1:5000/s/rcD7ImF1NXzNzFohN8p5/thao-tac-chuc-nang-tren-he-thong/ke-thua-du-lieu-theo-quy-trinh)
 
 <figure><img src="../../.gitbook/assets/Nhập hàng bán bị trả lại.png" alt=""><figcaption></figcaption></figure>
 

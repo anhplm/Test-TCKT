@@ -14,27 +14,21 @@ layout:
 
 # Bút toán chênh lệch tỷ giá
 
-## Mô tả
-
-Bút toán kết chuyển cuối kỳ là việc thực hiện kết chuyển tự động các nghiệp vụ sau:
-
-* Kết chuyển chi phí sản xuất qua tài khoản dở dang
-* Kết chuyển doanh thu, chi phí, lãi lỗ
-* Kết chuyển thuế
+Bút toán chênh lệch tỷ giá dùng để đánh giá chênh lệch tỷ giá cuối kỳ đối với các tài khoản có phát sinh ngoại tệ.
 
 ## **Các bước thực hiện**
 
-**Bước 1**: Truy cập chức năng tại đường dẫn _**Tổng hợp/ Nhập liệu/ Bút toán cuối kỳ/ Bút toán kết chuyển**_.
+**Bước 1**: Truy cập chức năng tại đường dẫn _**Tổng hợp/ Nhập liệu/ Bút toán cuối kỳ/ Bút toán chênh lệch tỷ giá**_
 
-**Bước 2:** Chọn thời gian cần kết chuyển, sau đó nhấn **Đồng ý**. Chương trình sẽ xử lý tập hợp dữ liệu từ kỳ đến kỳ và tạo bút toán vào ngày cuối của kỳ đến.
+**Bước 2:** Chọn **kỳ, năm** và loại **ngoại tệ** cần đánh giá chênh lệch, sau đó nhấn **Đồng ý**. Chương trình sẽ xử lý tập hợp dữ liệu trong kỳ theo ngoại tệ và tạo bút toán vào ngày cuối của kỳ.
 
-<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bt kết chuyển 1 (1).png" alt=""><figcaption><p>Bút toán chênh lệch tỷ giá</p></figcaption></figure>
 
-**Bước 3:** Tick chọn các bút toán sau đó nhấn nút **Kết chuyển**
+**Bước 3:** Tick chọn các bút toán sau đó nhấn nút **Tạo bút toán CLTG**
 
-<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bt cltg 2.png" alt=""><figcaption></figcaption></figure>
 
 **Một số lưu ý:**
 
-* Để xóa bút toán đã tạo thì người dùng tick chọn và nhấn nút Xóa kết chuyển.
-* Khi chạy kết chuyển lại, hệ thống sẽ xóa bút toán đã tạo trước đó để sinh lại, không cần phải chạy xóa kết chuyển.
+* Để xóa bút toán đã tạo thì người dùng tick chọn và nhấn nút Xóa bút toán.
+* Khi chạy tính chênh lệch tỷ giá, hệ thống sẽ xóa bút toán đã tạo trước đó để sinh lại, không cần phải chạy xóa bút toán.

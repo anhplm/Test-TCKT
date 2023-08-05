@@ -12,7 +12,7 @@ Các bước kiểm kê được thực hiện trên phần mềm như sau:
 
 &#x20;Tạo phiếu yêu cầu kiểm kê cần kiểm kê&#x20;
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 **Các thông tin cần lưu ý**:
 
@@ -27,11 +27,11 @@ Các bước kiểm kê được thực hiện trên phần mềm như sau:
 
 Lọc phiếu yêu cầu kiểm kê cần kiểm
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 Sau khi chọn phiếu yêu cầu chương trình sẽ hiển thị lên nội dung kiểm kê của kho đó, cho biết tình trạng tồn kho thực tế là bao nhiêu
 
-<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 **Các thông tin cần lưu ý**:
 
@@ -49,7 +49,7 @@ Sau khi chọn phiếu yêu cầu chương trình sẽ hiển thị lên nội d
 
 Khai báo màn hình: Xử lý chênh lệch số liệu kiểm kê
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 **Các thông tin cần lưu ý**:
 
@@ -66,6 +66,6 @@ Khai báo màn hình: Xử lý chênh lệch số liệu kiểm kê
 
 **Kết quả xử lý chênh lệch**
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://github.com/anhplm/TC-KT/blob/main/.gitbook/assets/sb\_12.png)
